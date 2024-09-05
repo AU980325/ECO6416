@@ -1,4 +1,4 @@
----
+ ---
 title: "Getting StaRted"
 author: 'ECO 6416'
 date: "Last Updated: `r Sys.Date()`"
